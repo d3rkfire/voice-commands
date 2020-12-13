@@ -29,6 +29,6 @@ voicepack 1/
 ```
 Therefore, to play "Need Backup" voice, for instance, you need to press NUMPAD 1, then NUMPAD 2.  
 
-## Prerequiste
+## Prerequisite
 On its own, this project is no different from an audio player. However, with VB Audio Virtual Cable drivers installed, this project will automatically play the audio on VB-Audio's "Cable Input" which you can pipe to VB-Audio's "Cable Output" to work as a recording device like your microphone.  
 - VB Audio Virtual Cable: https://vb-audio.com/Cable/
