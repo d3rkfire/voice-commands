@@ -4,6 +4,7 @@ Inspired by CSGO in-game voice commands. This project allows you to do similar t
 ## Things to note
 - All audios must be in .wav format. (Voicepacks are not included. You need to put your own audios.)  
 - Usage:  
+   + Choose voicepack with the combobox at the bottom.
    + Choose voice command to play with NUMPAD 1-9.  
    + Press NUMPAD 0 to return.  
    + Press NUMPAD + to exit.  
